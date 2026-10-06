@@ -57,9 +57,10 @@ Released in 2002 under G-Series, *Amar Prithibi* ("My World") is Black's explosi
 
 | | |
 | :---: | :---: |
-| <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BBooklet%5D.jpg" width="300" alt="2. Lyric Booklet" /><br><sub><b>2. Lyric Booklet</b></sub> |
+| <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BBooklet%5D.jpg" width="300" alt="2. Booklet & Lyrics" /><br><sub><b>2. Booklet & Lyrics</b></sub> |
 | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BInset-Front%5D.jpg" width="300" alt="3. Inset (Front)" /><br><sub><b>3. Inset (Front)</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
 | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BInset-Back%5D.jpg" width="300" alt="5. Back Inset" /><br><sub><b>5. Back Inset</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
+| <img src="Amar%20Prithibi/Album%20Cover/folder.jpg" width="300" alt="7. folder" /><br><sub><b>7. folder</b></sub> |  |
 
 ---
 
@@ -100,10 +101,10 @@ Released in 2003, *Utshober Por* ("After the Celebration") solidified Black's pl
 
 | | |
 | :---: | :---: |
-| <img src="Utshober%20Por/Album%20Cover/folder_2.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BInlay%5D.jpg" width="300" alt="1. Tray Inlay Artwork" /><br><sub><b>1. Tray Inlay Artwork</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
 | <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
-| <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BInlay%5D.jpg" width="300" alt="6. Tray Inlay Artwork" /><br><sub><b>6. Tray Inlay Artwork</b></sub> |
-| <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BCD%5D.jpg" width="300" alt="7. Compact Disc (CD)" /><br><sub><b>7. Compact Disc (CD)</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BBack%5D.jpg" width="300" alt="8. Back Cover" /><br><sub><b>8. Back Cover</b></sub> |
+| <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> | <img src="Utshober%20Por/Album%20Cover/folder_2.jpg" width="300" alt="8. folder 2" /><br><sub><b>8. folder 2</b></sub> |
 
 ---
 
