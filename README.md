@@ -1,71 +1,208 @@
 # 🎸 Black
 
-[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - Lossless Audio](https://img.shields.io/badge/Audio%20Format-Lossless%20Audio-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
+[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - FLAC Lossless](https://img.shields.io/badge/Audio%20Format-FLAC%20Lossless-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20FLAC-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
+
+<p align="center">
+  <img src="assets/band_cover.jpg" alt="Black Band" width="750" />
+</p>
 
 ## 🌟 About the Band
 
-> **Black** Bangladeshi music collection with lossless audio and full album packaging artwork.
+> **Black** is one of Bangladesh's most legendary alternative rock and post-grunge bands, formed in Dhaka in 1998. Originally founded by Jon Kabir (lead vocals/guitar), Jahan Bari (lead guitar), Tony (drums), Sagar (bass, later joined by Meraz and Rubayet), and Tahsan Khan (vocals/keyboards), Black pioneered modern alternative rock in Bangladesh. Known for raw angst, soaring melodic vocal harmonies, heavy driving distortion, and deeply introspective lyricism, their seminal albums *Amar Prithibi* and *Utshober Por* defined an entire generation of Bangladeshi youth culture and rock music.
 
 ---
 
+## 📑 Discography Index
+
+1. [Amar Prithibi (আমার পৃথিবী) (2002)](#1-amar-prithibi-2002)
+2. [Utshober Por (উৎসবের পর) (2003)](#2-utshober-por-2003)
+3. [Abar (আবার) (2008)](#3-abar-2008)
+4. [Black (Self-Titled) (2011)](#4-black-self-titled-2011)
+5. [Unomanush (উনোমানুষ) (2016)](#5-unomanush-2016)
+6. [Singles & Standalone Releases](#6-singles--standalone-releases)
+
+---
+
+<a id="1-amar-prithibi-2002"></a>
+## 1. Amar Prithibi (আমার পৃথিবী) (2002)
+
+- **Band:** Black
+- **Release Year:** 2002
+- **Record Label:** G-Series
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Amar%20Prithibi/Black%20-%20Amar%20Prithibi.jpg" width="300" alt="Amar Prithibi Album Cover" />
+</p>
+
+### 📖 About the Album
+Released in 2002 under G-Series, *Amar Prithibi* ("My World") is Black's explosive debut studio album that skyrocketed the band to national stardom. Blending raw grunge power, soaring emotional vocal harmonies between Jon and Tahsan, and heart-wrenching ballads, it features iconic anthems including *"Amra"*, *"Abhiman"*, *"Amar Prithibi"*, *"Kobor"*, *"Prarthonad"*, and *"Kothay"*.
+
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**1 - Manush Pakhir Gaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/1%20-%20Manush%20Pakhir%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/1%20-%20Manush%20Pakhir%20Gaan.flac?download=true)
-- [**10 - Keno**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/10%20-%20Keno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/10%20-%20Keno.flac?download=true)
-- [**2 - Abar**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/2%20-%20Abar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/2%20-%20Abar.flac?download=true)
-- [**3 - Abohomaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/3%20-%20Abohomaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/3%20-%20Abohomaan.flac?download=true)
-- [**4 - Obosh**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/4%20-%20Obosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/4%20-%20Obosh.flac?download=true)
-- [**5 - Shorobiddho**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/5%20-%20Shorobiddho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/5%20-%20Shorobiddho.flac?download=true)
-- [**6 - Ei Gaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/6%20-%20Ei%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/6%20-%20Ei%20Gaan.flac?download=true)
-- [**7 - Na Thaka Jibon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/7%20-%20Na%20Thaka%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/7%20-%20Na%20Thaka%20Jibon.flac?download=true)
-- [**8 - Korun**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/8%20-%20Korun.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/8%20-%20Korun.flac?download=true)
-- [**9 - Chinho**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/9%20-%20Chinho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Abar/9%20-%20Chinho.flac?download=true)
-- [**Amar Prithibi**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Amar%20Prithibi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Amar%20Prithibi.flac?download=true)
-- [**Amra**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Amra.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Amra.flac?download=true)
-- [**Bikhkhoto**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Bikhkhoto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Bikhkhoto.flac?download=true)
-- [**Biporit Alo**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Biporit%20Alo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Biporit%20Alo.flac?download=true)
-- [**Bluse And Rod**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Bluse%20And%20Rod.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Bluse%20And%20Rod.flac?download=true)
-- [**Chena Dukkho**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Chena%20Dukkho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Chena%20Dukkho.flac?download=true)
-- [**Dhushor Sriti**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Dhushor%20Sriti.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Dhushor%20Sriti.flac?download=true)
-- [**Ekhono**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Ekhono.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Ekhono.flac?download=true)
-- [**Kobor**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Kobor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Kobor.flac?download=true)
-- [**Kothay**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Kothay.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Kothay.flac?download=true)
-- [**Manush**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Manush.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Manush.flac?download=true)
-- [**Miththa**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Miththa.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Miththa.flac?download=true)
-- [**Obhiman**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Obhiman.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Obhiman.flac?download=true)
-- [**Ondhokarer Pashe**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Ondhokarer%20Pashe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Ondhokarer%20Pashe.flac?download=true)
-- [**Prarthonad**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Prarthonad.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Amar%20Prithibi/Prarthonad.flac?download=true)
-- [**01 - Haat Barao**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/01%20-%20Haat%20Barao.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/01%20-%20Haat%20Barao.flac?download=true)
-- [**02 - Paper Radio Tv**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/02%20-%20Paper%20Radio%20Tv.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/02%20-%20Paper%20Radio%20Tv.flac?download=true)
-- [**03 - Amar Prithibi**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/03%20-%20Amar%20Prithibi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/03%20-%20Amar%20Prithibi.flac?download=true)
-- [**04 - Attokendrik**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/04%20-%20Attokendrik.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/04%20-%20Attokendrik.flac?download=true)
-- [**06 - Ajo**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/06%20-%20Ajo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/06%20-%20Ajo.flac?download=true)
-- [**07 - Nilgiri**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/07%20-%20Nilgiri.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/07%20-%20Nilgiri.flac?download=true)
-- [**08 - Jiboner Baa Pashe**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/08%20-%20Jiboner%20Baa%20Pashe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/08%20-%20Jiboner%20Baa%20Pashe.flac?download=true)
-- [**09 - Purono Shei Din'er Kotha**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/09%20-%20Purono%20Shei%20Din%27er%20Kotha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/09%20-%20Purono%20Shei%20Din%27er%20Kotha.flac?download=true)
-- [**10 - Uposhonghar**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/10%20-%20Uposhonghar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/10%20-%20Uposhonghar.flac?download=true)
-- [**11 - Ekjon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/11%20-%20Ekjon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Black/11%20-%20Ekjon.flac?download=true)
-- [**01 - Proshno**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/01%20-%20Proshno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/01%20-%20Proshno.flac?download=true)
-- [**02 - O**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/02%20-%20O.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/02%20-%20O.flac?download=true)
-- [**03 - Porahoto**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/03%20-%20Porahoto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/03%20-%20Porahoto.flac?download=true)
-- [**05 - Onukkhon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/05%20-%20Onukkhon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/05%20-%20Onukkhon.flac?download=true)
-- [**06 - Uthshober Pore**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/06%20-%20Uthshober%20Pore.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/06%20-%20Uthshober%20Pore.flac?download=true)
-- [**07 - Opomito**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/07%20-%20Opomito.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/07%20-%20Opomito.flac?download=true)
-- [**08 - Eki Rokom**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/08%20-%20Eki%20Rokom.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/08%20-%20Eki%20Rokom.flac?download=true)
-- [**09 - Ei Chayapothe**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/09%20-%20Ei%20Chayapothe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/09%20-%20Ei%20Chayapothe.flac?download=true)
-- [**10 - Rudhdhobodh**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/10%20-%20Rudhdhobodh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/10%20-%20Rudhdhobodh.flac?download=true)
-- [**11 - Shlok**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/11%20-%20Shlok.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/11%20-%20Shlok.flac?download=true)
-- [**12 - 6i September**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/12%20-%206i%20September.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/12%20-%206i%20September.flac?download=true)
-- [**14 - Prakritik**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/14%20-%20Prakritik.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/14%20-%20Prakritik.flac?download=true)
-- [**15 - Eka**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/15%20-%20Eka.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/15%20-%20Eka.flac?download=true)
-- [**16 - Manush Pakhir Gaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/16%20-%20Manush%20Pakhir%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black%20Discography%20%5B16%20Bit%20FLAC%5D/Uthshober%20Pore/16%20-%20Manush%20Pakhir%20Gaan.flac?download=true)
+- [**01 - Amra**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/01%20-%20Amra.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/01%20-%20Amra.flac?download=true)
+- [**02 - Abhiman**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/02%20-%20Abhiman.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/02%20-%20Abhiman.flac?download=true)
+- [**03 - Amar Prithibi**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/03%20-%20Amar%20Prithibi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/03%20-%20Amar%20Prithibi.flac?download=true)
+- [**04 - Kobor**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/04%20-%20Kobor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/04%20-%20Kobor.flac?download=true)
+- [**05 - Bikhkhoto**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/05%20-%20Bikhkhoto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/05%20-%20Bikhkhoto.flac?download=true)
+- [**06 - Prarthonad**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/06%20-%20Prarthonad.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/06%20-%20Prarthonad.flac?download=true)
+- [**07 - Akhono**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/07%20-%20Akhono.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/07%20-%20Akhono.flac?download=true)
+- [**08 - Kothay**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/08%20-%20Kothay.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/08%20-%20Kothay.flac?download=true)
+- [**09 - Manush**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/09%20-%20Manush.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/09%20-%20Manush.flac?download=true)
+- [**10 - Andhokarer Pashey**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/10%20-%20Andhokarer%20Pashey.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/10%20-%20Andhokarer%20Pashey.flac?download=true)
+- [**11 - Miththa**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/11%20-%20Miththa.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/11%20-%20Miththa.flac?download=true)
+- [**12 - Dukhkher Rong [Crap]**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/12%20-%20Dukhkher%20Rong%20%5BCrap%5D.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Amar%20Prithibi/12%20-%20Dukhkher%20Rong%20%5BCrap%5D.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BBooklet%5D.jpg" width="300" alt="2. Lyric Booklet" /><br><sub><b>2. Lyric Booklet</b></sub> |
+| <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BInset-Front%5D.jpg" width="300" alt="3. Inset (Front)" /><br><sub><b>3. Inset (Front)</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
+| <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BInset-Back%5D.jpg" width="300" alt="5. Back Inset" /><br><sub><b>5. Back Inset</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
+
+---
+
+<a id="2-utshober-por-2003"></a>
+## 2. Utshober Por (উৎসবের পর) (2003)
+
+- **Band:** Black
+- **Release Year:** 2003
+- **Record Label:** G-Series
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Utshober%20Por/Album%20Cover/folder_2.jpg" width="300" alt="Utshober Por Album Cover" />
+</p>
+
+### 📖 About the Album
+Released in 2003, *Utshober Por* ("After the Celebration") solidified Black's place as titans of Bangladeshi alternative rock. Exploring themes of disillusionment, existential contemplation, and dark grunge dynamics, the album features timeless masterpieces like *"Proshno"*, *"Sloak"*, *"Porahoto"*, *"Utshober Por"*, *"Ei Chayapothe"*, and the heart-wrenching tribute *"6th September"*.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Proshno**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Proshno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Proshno.flac?download=true)
+- [**Black - Sloak**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Sloak.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Sloak.flac?download=true)
+- [**Black - Porahoto**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Porahoto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Porahoto.flac?download=true)
+- [**Black - Iccha**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Iccha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Iccha.flac?download=true)
+- [**Black - Onukkhon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Onukkhon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Onukkhon.flac?download=true)
+- [**Black - Utshober Por**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Utshober%20Por.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Utshober%20Por.flac?download=true)
+- [**Black - Opomito**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Opomito.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Opomito.flac?download=true)
+- [**Black - Eki Rokom**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Eki%20Rokom.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Eki%20Rokom.flac?download=true)
+- [**Black - Ei Chayapothe**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Ei%20Chayapothe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Ei%20Chayapothe.flac?download=true)
+- [**Black - Ruddhobodh**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Ruddhobodh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Ruddhobodh.flac?download=true)
+- [**Black - Bimurto**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Bimurto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Bimurto.flac?download=true)
+- [**Black - 6th September**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%206th%20September.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%206th%20September.flac?download=true)
+- [**Black - Michimichi**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Michimichi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Michimichi.flac?download=true)
+- [**Black - Prakritik**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Prakritik.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Prakritik.flac?download=true)
+- [**Black - Eka**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Eka.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Utshober%20Por/Black%20-%20Eka.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Utshober%20Por/Album%20Cover/folder_2.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BInset-1%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BInset-2%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BInset-3%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
+| <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BInlay%5D.jpg" width="300" alt="6. Tray Inlay Artwork" /><br><sub><b>6. Tray Inlay Artwork</b></sub> |
+| <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BCD%5D.jpg" width="300" alt="7. Compact Disc (CD)" /><br><sub><b>7. Compact Disc (CD)</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BBack%5D.jpg" width="300" alt="8. Back Cover" /><br><sub><b>8. Back Cover</b></sub> |
+
+---
+
+<a id="3-abar-2008"></a>
+## 3. Abar (আবার) (2008)
+
+- **Band:** Black
+- **Release Year:** 2008
+- **Record Label:** G-Series
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Album
+Marking Black's return five years after *Utshober Por*, *Abar* ("Again") saw the band embracing heavier alternative metal grooves, mature songwriting, and dark atmospheric textures. Highlights include the hard-hitting title track *"Abar"*, *"Ei Gaan"*, *"Keno"*, *"Na Thaka Jibon"*, and *"Manush Pakhir Gaan"*.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Abar**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Abar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Abar.flac?download=true)
+- [**Black - Abhomaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Abhomaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Abhomaan.flac?download=true)
+- [**Black - Chinho**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Chinho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Chinho.flac?download=true)
+- [**Black - Ei Gaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Ei%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Ei%20Gaan.flac?download=true)
+- [**Black - Keno**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Keno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Keno.flac?download=true)
+- [**Black - Korun**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Korun.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Korun.flac?download=true)
+- [**Black - Manush Pakhir Gaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Manush%20Pakhir%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Manush%20Pakhir%20Gaan.flac?download=true)
+- [**Black - Na Thaka Jibon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Na%20Thaka%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Na%20Thaka%20Jibon.flac?download=true)
+- [**Black - Obosh**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Obosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Obosh.flac?download=true)
+- [**Black - Shorobiddho**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Shorobiddho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Shorobiddho.flac?download=true)
+
+---
+
+<a id="4-black-self-titled-2011"></a>
+## 4. Black (Self-Titled) (2011)
+
+- **Band:** Black
+- **Release Year:** 2011
+- **Record Label:** G-Series
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Album
+The band's fourth studio release, the self-titled *Black* (2011), was a bold celebration of their musical legacy and evolutionary sound. Featuring modern arrangements and powerful dynamic tracks, it delivers fan favorites like *"Haat Barao"*, *"Paper Radio Tv"*, *"Ajo"*, *"Nilgiri"*, and a re-imagined acoustic take on *"Amar Prithibi"*.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Haat Barao**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Haat%20Barao.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Haat%20Barao.flac?download=true)
+- [**Black - Paper Radio Tv**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Paper%20Radio%20Tv.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Paper%20Radio%20Tv.flac?download=true)
+- [**Black - Amar Prithibi**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Amar%20Prithibi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Amar%20Prithibi.flac?download=true)
+- [**Black - Nilgiri**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Nilgiri.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Nilgiri.flac?download=true)
+- [**Black - Attokendrik**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Attokendrik.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Attokendrik.flac?download=true)
+- [**Black - Mumursho Rupkotha**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Mumursho%20Rupkotha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Mumursho%20Rupkotha.flac?download=true)
+- [**Black - Jiboner Ba Pashe**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Jiboner%20Ba%20Pashe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Jiboner%20Ba%20Pashe.flac?download=true)
+- [**Black - Purano Shei Diner Kotha**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Purano%20Shei%20Diner%20Kotha.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Purano%20Shei%20Diner%20Kotha.flac?download=true)
+- [**Black - Uposhonghar**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Uposhonghar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Uposhonghar.flac?download=true)
+- [**Black - Ajo**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Ajo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Ajo.flac?download=true)
+- [**Black - Ekjon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Ekjon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Ekjon.flac?download=true)
+
+---
+
+<a id="5-unomanush-2016"></a>
+## 5. Unomanush (উনোমানুষ) (2016)
+
+- **Band:** Black
+- **Release Year:** 2016
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Album
+*Unomanush* ("Sub-human") represents Black's fifth studio album, showcasing an aggressive modern alt-rock and post-grunge sound with new vocal dynamics and crushing guitar work. Featuring fierce tracks like *"Unomanush"*, *"Akkhep"*, *"Chokh"*, and *"Sommohon"*.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Akkhep**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Akkhep.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Akkhep.flac?download=true)
+- [**Black - Chokh**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Chokh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Chokh.flac?download=true)
+- [**Black - Ghrina**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Ghrina.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Ghrina.flac?download=true)
+- [**Black - Gohine**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Gohine.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Gohine.flac?download=true)
+- [**Black - Odhora**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Odhora.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Odhora.flac?download=true)
+- [**Black - Onek Jibon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Onek%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Onek%20Jibon.flac?download=true)
+- [**Black - Sommohon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Sommohon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Sommohon.flac?download=true)
+- [**Black - Unomanush**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Unomanush.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Unomanush.flac?download=true)
+
+---
+
+<a id="6-singles--standalone-releases"></a>
+## 6. Singles & Standalone Releases
+
+- **Band:** Black
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+### 📖 About the Releases
+Standalone studio singles and featured compilation tracks:
+- **Black - Shomantoral**: A powerful, introspective single showcasing Black's signature melancholic melody and atmospheric guitar work.
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Shomantoral**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Singles/Black%20-%20Shomantoral.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Singles/Black%20-%20Shomantoral.flac?download=true)
 
 ---
 
 ### 💾 Git LFS & Downloading Audio
 All audio tracks in this repository are managed via **Git LFS** (Large File Storage).
-- **One-Tap Direct Download:** Click either the track title or the green download button next to any song to instantly save the file to your device.
-- **To clone locally with all audio files:**
+- **One-Tap Direct Download:** Click either the track title or the green `Download FLAC` button next to any song to instantly save the lossless FLAC file to your device.
+- **To clone the complete discography locally with all FLAC files:**
   ```bash
   git lfs install
   git clone https://github.com/GhostDog45/Black.git
@@ -75,4 +212,3 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 
 ### 🙏 Special Thanks & Gratitude
 Heartfelt gratitude to **Shohail Ibne Mahbub (XTR)** for his monumental passion and dedication in keeping Bangladeshi band music alive. Through his archival project [**Bangla CD Covers**](https://banglacdcovers.blogspot.com/), he has painstakingly collected, preserved, and scanned original physical CDs and cassette tapes, ensuring that the legacy, artwork, and history of Bangladesh's rock and band movement remain preserved for generations of music lovers.
-
