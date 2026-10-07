@@ -116,6 +116,10 @@ Released in 2003, *Utshober Por* ("After the Celebration") solidified Black's pl
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Abar/Album%20Cover/folder.jpg" width="300" alt="Abar Album Cover" />
+</p>
+
 ### 📖 About the Album
 Marking Black's return five years after *Utshober Por*, *Abar* ("Again") saw the band embracing heavier alternative metal grooves, mature songwriting, and dark atmospheric textures. Highlights include the hard-hitting title track *"Abar"*, *"Ei Gaan"*, *"Keno"*, *"Na Thaka Jibon"*, and *"Manush Pakhir Gaan"*.
 
@@ -132,6 +136,16 @@ Marking Black's return five years after *Utshober Por*, *Abar* ("Again") saw the
 - [**Obosh**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Obosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Obosh.flac?download=true)
 - [**Shorobiddho**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Shorobiddho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Shorobiddho.flac?download=true)
 
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Abar/Album%20Cover/folder.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Abar/Album%20Cover/Abar%2B-5BFront-5D.jpg" width="300" alt="2. Front Cover (Alternate Scan)" /><br><sub><b>2. Front Cover (Alternate Scan)</b></sub> |
+| <img src="Abar/Album%20Cover/Abar%20%5BArtwork%5D.jpg" width="300" alt="3. Cover Artwork" /><br><sub><b>3. Cover Artwork</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-1%5D.jpg" width="300" alt="4. Inset (Part 1)" /><br><sub><b>4. Inset (Part 1)</b></sub> |
+| <img src="Abar/Album%20Cover/Abar%20%5BInset-2%5D.jpg" width="300" alt="5. Inset (Part 2)" /><br><sub><b>5. Inset (Part 2)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-3%5D.jpg" width="300" alt="6. Inset (Part 3)" /><br><sub><b>6. Inset (Part 3)</b></sub> |
+| <img src="Abar/Album%20Cover/Abar%20%5BInset-4%5D.jpg" width="300" alt="7. Inset (Part 4)" /><br><sub><b>7. Inset (Part 4)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-5%5D.jpg" width="300" alt="8. Inset (Part 5)" /><br><sub><b>8. Inset (Part 5)</b></sub> |
+| <img src="Abar/Album%20Cover/Abar%20%5BCD%5D.jpg" width="300" alt="9. Compact Disc (CD)" /><br><sub><b>9. Compact Disc (CD)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BBack%5D.jpg" width="300" alt="10. Back Cover" /><br><sub><b>10. Back Cover</b></sub> |
+
 ---
 
 <a id="4-black-self-titled-2011"></a>
@@ -141,6 +155,10 @@ Marking Black's return five years after *Utshober Por*, *Abar* ("Again") saw the
 - **Release Year:** 2011
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Black/Album%20Cover/Black%20%5BFront%5D.jpg" width="300" alt="Black Album Cover" />
+</p>
 
 ### 📖 About the Album
 The band's fourth studio release, the self-titled *Black* (2011), was a bold celebration of their musical legacy and evolutionary sound. Featuring modern arrangements and powerful dynamic tracks, it delivers fan favorites like *"Haat Barao"*, *"Paper Radio Tv"*, *"Ajo"*, *"Nilgiri"*, and a re-imagined acoustic take on *"Amar Prithibi"*.
@@ -159,6 +177,15 @@ The band's fourth studio release, the self-titled *Black* (2011), was a bold cel
 - [**Ajo**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Ajo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Ajo.flac?download=true)
 - [**Ekjon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Ekjon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Black/Black%20-%20Ekjon.flac?download=true)
 
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Black/Album%20Cover/Black%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Black/Album%20Cover/Black%20%5BInset%20-%201%5D.jpg" width="300" alt="2. Inset (Part 1)" /><br><sub><b>2. Inset (Part 1)</b></sub> |
+| <img src="Black/Album%20Cover/Black%20%5BInset%20-%202%5D.jpg" width="300" alt="3. Inset (Part 2)" /><br><sub><b>3. Inset (Part 2)</b></sub> | <img src="Black/Album%20Cover/Black%20%5BInset%20-%203%5D.jpg" width="300" alt="4. Inset (Part 3)" /><br><sub><b>4. Inset (Part 3)</b></sub> |
+| <img src="Black/Album%20Cover/Black%20%5BInset%20-%204%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Black/Album%20Cover/Black%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
+| <img src="Black/Album%20Cover/Black%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
+
 ---
 
 <a id="5-unomanush-2016"></a>
@@ -167,6 +194,10 @@ The band's fourth studio release, the self-titled *Black* (2011), was a bold cel
 - **Band:** Black
 - **Release Year:** 2016
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Unomanush/Album%20Cover/Unomanush%20-%20Artwork.jpg" width="300" alt="Unomanush Album Cover" />
+</p>
 
 ### 📖 About the Album
 *Unomanush* ("Sub-human") represents Black's fifth studio album, showcasing an aggressive modern alt-rock and post-grunge sound with new vocal dynamics and crushing guitar work. Featuring fierce tracks like *"Unomanush"*, *"Akkhep"*, *"Chokh"*, and *"Sommohon"*.
@@ -181,6 +212,12 @@ The band's fourth studio release, the self-titled *Black* (2011), was a bold cel
 - [**Onek Jibon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Onek%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Onek%20Jibon.flac?download=true)
 - [**Sommohon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Sommohon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Sommohon.flac?download=true)
 - [**Unomanush**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Unomanush.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Unomanush/Black%20-%20Unomanush.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Unomanush/Album%20Cover/Unomanush%20-%20Artwork.jpg" width="300" alt="1. Cover Artwork" /><br><sub><b>1. Cover Artwork</b></sub> |  |
 
 ---
 
