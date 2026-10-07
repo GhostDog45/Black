@@ -140,11 +140,11 @@ Marking Black's return five years after *Utshober Por*, *Abar* ("Again") saw the
 
 | | |
 | :---: | :---: |
-| <img src="Abar/Album%20Cover/folder.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Abar/Album%20Cover/Abar%2B-5BFront-5D.jpg" width="300" alt="2. Front Cover (Alternate Scan)" /><br><sub><b>2. Front Cover (Alternate Scan)</b></sub> |
-| <img src="Abar/Album%20Cover/Abar%20%5BArtwork%5D.jpg" width="300" alt="3. Cover Artwork" /><br><sub><b>3. Cover Artwork</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-1%5D.jpg" width="300" alt="4. Inset (Part 1)" /><br><sub><b>4. Inset (Part 1)</b></sub> |
-| <img src="Abar/Album%20Cover/Abar%20%5BInset-2%5D.jpg" width="300" alt="5. Inset (Part 2)" /><br><sub><b>5. Inset (Part 2)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-3%5D.jpg" width="300" alt="6. Inset (Part 3)" /><br><sub><b>6. Inset (Part 3)</b></sub> |
-| <img src="Abar/Album%20Cover/Abar%20%5BInset-4%5D.jpg" width="300" alt="7. Inset (Part 4)" /><br><sub><b>7. Inset (Part 4)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-5%5D.jpg" width="300" alt="8. Inset (Part 5)" /><br><sub><b>8. Inset (Part 5)</b></sub> |
-| <img src="Abar/Album%20Cover/Abar%20%5BCD%5D.jpg" width="300" alt="9. Compact Disc (CD)" /><br><sub><b>9. Compact Disc (CD)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BBack%5D.jpg" width="300" alt="10. Back Cover" /><br><sub><b>10. Back Cover</b></sub> |
+| <img src="Abar/Album%20Cover/Abar%2B-5BFront-5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BArtwork%5D.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
+| <img src="Abar/Album%20Cover/Abar%20%5BInset-1%5D.jpg" width="300" alt="3. Inset (Part 1)" /><br><sub><b>3. Inset (Part 1)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-2%5D.jpg" width="300" alt="4. Inset (Part 2)" /><br><sub><b>4. Inset (Part 2)</b></sub> |
+| <img src="Abar/Album%20Cover/Abar%20%5BInset-3%5D.jpg" width="300" alt="5. Inset (Part 3)" /><br><sub><b>5. Inset (Part 3)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-4%5D.jpg" width="300" alt="6. Inset (Part 4)" /><br><sub><b>6. Inset (Part 4)</b></sub> |
+| <img src="Abar/Album%20Cover/Abar%20%5BInset-5%5D.jpg" width="300" alt="7. Inset (Part 5)" /><br><sub><b>7. Inset (Part 5)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BCD%5D.jpg" width="300" alt="8. Compact Disc (CD)" /><br><sub><b>8. Compact Disc (CD)</b></sub> |
+| <img src="Abar/Album%20Cover/Abar%20%5BBack%5D.jpg" width="300" alt="9. Back Cover" /><br><sub><b>9. Back Cover</b></sub> | <img src="Abar/Album%20Cover/folder.jpg" width="300" alt="10. folder" /><br><sub><b>10. folder</b></sub> |
 
 ---
 
@@ -217,7 +217,7 @@ The band's fourth studio release, the self-titled *Black* (2011), was a bold cel
 
 | | |
 | :---: | :---: |
-| <img src="Unomanush/Album%20Cover/Unomanush%20-%20Artwork.jpg" width="300" alt="1. Cover Artwork" /><br><sub><b>1. Cover Artwork</b></sub> |  |
+| <img src="Unomanush/Album%20Cover/Unomanush%20-%20Artwork.jpg" width="300" alt="1. Gatefold Artwork" /><br><sub><b>1. Gatefold Artwork</b></sub> |  |
 
 ---
 
